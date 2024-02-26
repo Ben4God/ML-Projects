@@ -1,3 +1,3 @@
 # ML-Projects
 
-These are ML personal projects with KAGGLE COMPETITIONS 
+These are ML personal projects using KAGGLE PLATFORM. 
